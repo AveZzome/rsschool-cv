@@ -1,9 +1,9 @@
-#rsschool-cv
+# rsschool-cv
 Nikita Leonchikov
 Minsk, Belarus
 +375 29 689-72-25
 nikitosss.leonchikov42@gmail.com
-Purpose:
+# Purpose:
 I am looking for a platform on which I can implement my knowledge in programming.
 Education
 Belarusian State University of Informatics and Radioelectronics, Faculty of Information Technologies and Management, specialty “Engineer - Programmer” 2020-present. Secondary education: Gymnasium No. 14, Gomel, 2012-2020. Qualifications - Online Course “JavaScript / Front-end”, Rolling Scopes School, July 2021 - Present. English language: self-development on various platforms.
