@@ -1,4 +1,4 @@
-rsschool-cv
+#rsschool-cv
 Nikita Leonchikov
 Minsk, Belarus
 +375 29 689-72-25
